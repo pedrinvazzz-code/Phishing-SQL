@@ -1,0 +1,14 @@
+5) Com base na sua análise, que recomendações você daria para identificar se uma URL pode ser phishing?
+
+
+Com base na análise, recomenda-se considerar como sinais de risco:
+
+- URLs excessivamente longas
+
+- Uso elevado de caracteres especiais
+
+- Presença de múltiplos redirecionamentos
+
+- Combinação de múltiplas características suspeitas simultaneamente
+
+A análise também indica que a combinação de variáveis é mais eficaz do que a avaliação isolada de uma única variável.
