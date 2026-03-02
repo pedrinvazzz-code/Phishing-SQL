@@ -39,20 +39,10 @@ Perguntas do Projeto:
 
 1) Que código SQL você escreveria para consultar todos os dados contidos no conjunto de dados fornecido?
 
-2) Qual(is) campo(s) apresentam maior correlação com o campo “phishing” (se a URL é phishing ou não)?
+2) Quais campos apresentam maior correlação com o campo “phishing” (se a URL é phishing ou não)?
 
-3) Qual(is) campo(s) apresentam menor correlação com o campo “phishing”?
+3) Quais campos apresentam menor correlação com o campo “phishing”?
 
-4) O comprimento da URL (url_length) é um forte indicador de que a URL é phishing?
+4) As variáveis analisadas seriam suficientes para um sistema real de detecção?
 
-Justifique sua resposta.
-
-Quais métricas foram utilizadas para apoiar essa conclusão?
-
-5) O número de redirecionamentos (n_redirection) é um forte indicador de que a URL é phishing?
-
-Justifique sua resposta.
-
-Quais métricas foram utilizadas para apoiar essa conclusão?
-
-6) Com base na sua análise, que recomendações você daria para identificar se uma URL pode ser phishing?
+5) Com base na sua análise, que recomendações você daria para identificar se uma URL pode ser phishing?
