@@ -5,12 +5,12 @@ Análise exploratória de dados de URLs de phishing utilizando SQL para identifi
 Todos os queries foram executados utilizando SQLite.
 
 
-# Dataset utilizado:
+## Dataset utilizado:
 
 https://www.kaggle.com/datasets/danielfernandon/web-page-phishing-dataset
 
 
-# Estrutura da Tabela:
+## Estrutura da Tabela:
 
 Tabela: `phishing_data`
 
@@ -38,7 +38,7 @@ Principais colunas:
 - phishing (0 para legítima, 1 para phishing)
 
 
-# Perguntas do Projeto:
+## Perguntas do Projeto:
 
 1) Que código SQL você escreveria para consultar todos os dados contidos no conjunto de dados fornecido?
 
