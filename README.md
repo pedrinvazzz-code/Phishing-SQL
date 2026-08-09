@@ -41,7 +41,7 @@ Principais colunas:
 
 ---
 
-## Perguntas do Projeto:
+## Perguntas do Projeto são:
 
 1) Que código SQL você escreveria para consultar todos os dados contidos no conjunto de dados fornecido?
 
