@@ -6,7 +6,7 @@ Todos os queries foram executados utilizando SQLite.
 
 ---
 
-## Dataset utilizado:
+## Segue o Dataset utilizado:
 
 https://www.kaggle.com/datasets/danielfernandon/web-page-phishing-dataset
 
